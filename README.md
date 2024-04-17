@@ -20,6 +20,7 @@ See also this [blog post](https://blog.postman.com/what-we-learned-from-200000-o
 * [Bump.sh](https://help.bump.sh/markdown-support#adding-topics-to-your-documentation)
 * [Bungie.net](https://github.com/Bungie-net/api#extension-properties-on-openapi-specs-or-how-to-generate-much-cooler-clients-for-the-bnet-api-if-you-want-to-take-the-time-to-do-so)
 * [DocuSign](https://github.com/docusign/eSign-OpenAPI-Specification/blob/master/DocuSign-Extensions.md)
+* [Doctave](https://docs.doctave.com/docs/contents/api-reference-documentation#supported-extensions)
 * [EVRYTHNG](https://developers.evrythng.com/docs/openapi-description#section-extensions)
 * [Exegesis](https://github.com/exegesis-js/exegesis/blob/master/docs/OAS3%20Specification%20Extensions.md)
 * [express-openapi](https://github.com/kogosoftwarellc/open-api/tree/master/packages/express-openapi#vendor-extensions)
